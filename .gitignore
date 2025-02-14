@@ -21,3 +21,7 @@ _old/
 
 # Local Netlify folder
 .netlify
+
+#分支描述文件
+ branchDescription.doc
+ .gitignore

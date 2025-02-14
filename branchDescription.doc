@@ -1,2 +1,2 @@
 main: git config branch..description "原始状态"
-produce_0:
+produce_0:git config branch..description "用于验证"
